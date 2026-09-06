@@ -3,7 +3,7 @@
   All wedding-specific content, links, assets, and colours live here.
 */
 window.WEDDING_CONFIG = Object.freeze({
-  siteUrl: "https://arun-and-neethu/", // Replace before deployment.
+   // Replace before deployment.
   siteTitle: "Arun Thomas & Neethu Babu | Wedding Invitation",
   siteDescription: "Join us as Arun Thomas and Neethu Babu begin their forever on 13 September 2026.",
   ogImage: "assets/images/og-wedding-invitation.jpg",
